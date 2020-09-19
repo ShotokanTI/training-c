@@ -1,2 +1,2 @@
 # training-c
-Meus exercicios de Faculdade/Hobbies em C
+Meus antigos exercicios de Faculdade/Hobbies em C
